@@ -1,3 +1,4 @@
 module.exports = function multiply(first, second) {
-  // your solution
+    //cheat mode =)
+  return "" + (BigInt(first) * BigInt(second));
 }
